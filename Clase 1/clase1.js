@@ -27,7 +27,7 @@ class Usuario {
     getBookNames(id){
         this.libros.forEach(libros => {
           if(libros.id===id){
-              return `${this.nombre}`
+              return `${this.libros}`
           }
         })
     }
@@ -50,6 +50,6 @@ usuario1.addBook({
     nombre:'El señor de los anillos',
     autor:'Tolkien',
 });
-console.log(usuario1.getBookNames(1,2));
+
 console.log(usuario1);
 
