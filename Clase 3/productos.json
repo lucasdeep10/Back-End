@@ -1,0 +1,26 @@
+[ 
+    {
+    "id":1,
+    "nombre": "Gucci",
+    "tipo": "Remera",
+    "precio": 1500
+    },
+    {
+    "id":2,
+    "nombre": "Gucci",
+    "tipo": "Camisa",
+    "precio": 3500
+    },
+    {
+    "id":3,
+    "nombre": "Gucci",
+    "tipo": "Pantalon",
+    "precio": 4500
+    },
+    {
+    "id":4,
+    "nombre": "Gucci",
+    "tipo": "Chomba",
+    "precio": 2000
+    }
+]
