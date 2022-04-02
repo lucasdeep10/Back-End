@@ -1,0 +1,52 @@
+[
+    {
+      "nombre": "Remera Gucci",
+      "descripcion": "Remera de color blanca con estampado Gucci",
+      "codigo": "remera003",
+      "foto": "#",
+      "precio": 3214,
+      "stock": 10,
+      "timestamp": 1648602467849,
+      "id": 1
+    },
+    {
+      "nombre": "Pantalón GC",
+      "descripcion": "Pantalón ecocuero color negro",
+      "codigo": "pantalon003",
+      "foto": "#",
+      "precio": 6214,
+      "stock": 12,
+      "timestamp": 1648602540712,
+      "id": 2
+    },
+    {
+      "nombre": "Remera Wild",
+      "descripcion": "Remera color negra con estampado WD",
+      "codigo": "remera004",
+      "foto": "#",
+      "precio": 912,
+      "stock": 7,
+      "timestamp": 1648602608403,
+      "id": 3
+    },
+    {
+      "nombre": "Pantalon Toury",
+      "descripcion": "Pantalon color negro",
+      "codigo": "pantalon004",
+      "foto": "#",
+      "precio": 2454,
+      "stock": 14,
+      "timestamp": 1648602706401,
+      "id": 4
+    },
+    {
+      "nombre": "Jean GC",
+      "descripcion": "Jean color celeste",
+      "codigo": "pantalon005",
+      "foto": "#",
+      "precio": 7454,
+      "stock": 14,
+      "timestamp": 1648602768134,
+      "id": 5
+    }
+  ]
