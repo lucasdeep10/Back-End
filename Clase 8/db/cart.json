@@ -1,0 +1,18 @@
+[
+    {
+        "id": "g2pcbjv0l1gprezm",
+        "date": "1/4/2022 14:42:36",
+        "products": [
+            {
+                "id": 2,
+                "nombre": "Camiseta GG",
+                "tipo": "Remera",
+                "precio": 2100,
+                "imagen": "#",
+                "stock": 13,
+                "quantity": 1,
+                "total": 2100
+            }
+        ]
+    }
+]
